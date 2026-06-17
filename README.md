@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/roce-prohibido-de-amor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Roce prohibido de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-prohibido-de-amor/) |
+| **Get License** | [Music Rights & Licensing for Roce prohibido de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roce-prohibido-de-amor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus ojos me llaman en medio del club,
+> Un roce prohibido, apaga la luz.
+> Baby, tú sabes que me tienes a full,
+> Pegadito a tu cuerpo, bajando al sur.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
