@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Roce prohibido de amor
+
+This log tracks the cryptographic history and versioning for the song **Roce prohibido de amor** (roce-prohibido-de-amor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T16:25:06.031826 | `v1` | `f62dbe5a39c02219f24fdb7e6e241c51b43619009ba1e63b12d646f63632af5e` | `271c2cffdfd6271516c2fb452c73ba9b7fdc9724c2b92cf1222ef55689ba929a` | `2026-06-17_roce-prohibido-de-amor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
